@@ -178,8 +178,8 @@ input {
   height: 28px;
   margin: 48px auto 0;
   background-color: var(--color-primary);
-  -webkit-mask: url('public/assets/line.svg') no-repeat center / contain;
-  mask: url('public/assets/line.svg') no-repeat center / contain;
+  -webkit-mask: url('public/assets/line3.svg') no-repeat center / contain;
+  mask: url('public/assets/line3.svg') no-repeat center / contain;
   opacity: 0.4;
 }
 
